@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.ibb.co/YTKS2st/Student-4.gif" style="width: 100%;">
+  <img src="https://i.ibb.co/LPCt2P7/Student-5.gif" style="width: 100%;">
 </div>
 <div align="center">
-  <img src="https://i.ibb.co/nr7PkHw/Progetto-senza-titolo-5.gif" style="width: 100%;">
+  <img src="https://i.ibb.co/nr7PkHw/Progetto-senza-titolo-5.gif" style="width: 50%;">
 </div>
 
 ***
@@ -68,7 +68,7 @@
 
   <div align="center"> 
     
-  ![CV](https://img.shields.io/badge/Curriculum-42-black?style=for-the-badge&logoColor=white)
+  [![CV](https://img.shields.io/badge/Curriculum-42-black?style=for-the-badge&logoColor=white)](https://i.ibb.co/GQGkbpG/Modello-1.png)
   </div>   
 </details>
 
