@@ -10,7 +10,7 @@
 <details>
 <summary><h2>:milky_way: 42 Common Core</h2></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emtraverso&repo=42-Common-Core&show_owner=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/emtraverso/42-Common-Core)
+
 </details>
 
 <details> 
